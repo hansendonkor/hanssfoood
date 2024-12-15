@@ -5,7 +5,7 @@ In the project folder, you can execute the following commands:
 
 npm start
 Starts the development server.\
-Visit http://localhost:3000 in your web browser to see the app.
+Visit https://food-hans.vercel.app/ in your web browser to see the app.
 
 The application supports hot reloading, so changes will reflect immediately.\
 Any linting errors will also be shown in the console.
@@ -53,3 +53,4 @@ Troubleshooting Build Failures
 If npm run build does not minify your code, consult this guide: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify.
 
 This version retains the core essence of the original while rephrasing the content for uniqueness. Let me know if you need further changes!
+
